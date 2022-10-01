@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**JyotiPandey111/JyotiPandey111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning Projects at iNeuron as Machine Learning Intern.
 - 🌱 I’m currently learning Statistics relevent to Data Science.
 - 👯 I’m looking to collaborate on Machine Learning.

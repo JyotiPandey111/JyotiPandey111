@@ -35,5 +35,5 @@
 
 <a href="https://www.linkedin.com/in/km-jyoti-pandey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jyoti%20Pandey-blue?style=flat-square&logo=linkedin"></a>
 <a href="" src="https://img.shields.io/badge/Instagram-imjyotipandey-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jyotipandeydip@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotipandeydip@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:jyoti.pandey4ai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyoti.pandey4ai@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

@@ -18,6 +18,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Docker Hub](https://img.shields.io/badge/-DockerHub-333333?style=flat&logo=docker)
 - 📦 &nbsp;
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy&logoColor=007ACC)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)

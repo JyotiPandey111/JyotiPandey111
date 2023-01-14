@@ -30,14 +30,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 
-<br/>
-
-<a href="https://github.com/JyotiPandey111">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JyotiPandey111&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiPandey111&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

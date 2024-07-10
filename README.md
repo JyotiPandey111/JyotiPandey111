@@ -31,7 +31,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 - ⚙️ &nbsp;
    ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-   # ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+   
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
